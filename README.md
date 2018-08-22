@@ -1,4 +1,4 @@
-#Hello, world!
+# Hello, world!
 
 The purpose of this challenge is to use Git and Github to create and submit a trivial Python program.
 
@@ -28,7 +28,7 @@ Use the following procedure for submitting all of your programs:
   the top of the Github page.
 
 
-##Assignment 
+## Assignment 
 
 Write and submit a Python program that prints the following (Note: your program must produce
 output that matches **exactly**!):
