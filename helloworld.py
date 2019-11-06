@@ -1,6 +1,6 @@
 """
 helloworld.py
-Author: <your name here>
+Author: <Zo>
 Credit: <list sources used, if any>
 
 Assignment:
